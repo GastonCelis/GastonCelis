@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hola soy Gastón Emmanue Celis Desarrollador Web Full Stack, con marcada capacidad de análisis y orientación a lograrla mejor experiencia.
+Busco perfeccionar mis habilidades cada día, sumando retos y desafíos.
+Poseo agilidad en el aprendizaje y proyecto a seguir aumentando mis conocimientos, herramientas y habilidades. 👋
 
-<!--
-**GastonCelis/GastonCelis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Poseo habilidades en:
+- Node Js con Express.
+- API Rest.
+- Consumo de APIs.
+- JavaScript / JQuery / AJAX / Async-Await / Promises.
+- Comandos Node JS / NPM.
+- HTML 5, CSS 3, SASS.
+- React JS (con Hooks).
+- NoSQL: Firebase, MongoDB con Mongoose.
+- SQL: Knex.js en Mysql, MariaDB, SQlite3.
+- Websockets.
+- Bootstrap.
+- SEO.
+- Responsive Design.
+- Git, Github.
+- VSCode.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soy de Córdoba Argentina.
