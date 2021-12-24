@@ -1,6 +1,4 @@
-### Hola soy Gastón Emmanue Celis Desarrollador Web Full Stack, con marcada capacidad de análisis y orientación a lograrla mejor experiencia.
-Busco perfeccionar mis habilidades cada día, sumando retos y desafíos.
-Poseo agilidad en el aprendizaje y proyecto a seguir aumentando mis conocimientos, herramientas y habilidades. 👋
+### Soy Gastón Emmanuel Celis Desarrollador Web Full Stack. 👋
 
 ## Poseo habilidades en:
 - Node Js con Express.
@@ -19,4 +17,7 @@ Poseo agilidad en el aprendizaje y proyecto a seguir aumentando mis conocimiento
 - Git, Github.
 - VSCode.
 
+## Poseo marcada capacidad de análisis y orientación a lograrla mejor experiencia
+## Busco perfeccionar mis habilidades cada día, sumando retos y desafíos.
+## Poseo agilidad en el aprendizaje y proyecto a seguir aumentando mis conocimientos, herramientas y habilidades.
 ## Soy de Córdoba Argentina.
