@@ -1,4 +1,4 @@
-# :relaxed: Soy Gastón Emmanuel Celis Desarrollador Web Full Stack :wave:.
+# :relaxed: Soy Gastón Emmanuel Celis Desarrollador Web Full Stack.
 
 ## :nerd_face: Poseo habilidades en:
 - Node Js con Express.
