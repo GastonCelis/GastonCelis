@@ -17,7 +17,7 @@
 - Git, Github.
 - VSCode.
 
-## :thinking: Poseo marcada capacidad de análisis y orientación a lograrla mejor experiencia
+## :thinking: Poseo capacidad de análisis y orientación a lograrla mejor experiencia
 ## :thinking: Busco perfeccionar mis habilidades cada día, sumando retos y desafíos.
 ## :thinking: Poseo agilidad en el aprendizaje y proyecto a seguir aumentando mis conocimientos, herramientas y habilidades.
 ## :earth_americas: Soy de Córdoba Argentina.
